@@ -21,7 +21,7 @@ yarn add -D @mvlchain/prettier-config
 1. Add the following to `.prettierrc.js` (or `prettier.config.js`):
 
 ```js
-module.exports = require("@mvlchain/prettier-config");
+module.exports = require('@mvlchain/prettier-config');
 ```
 
 #### Overwrite
@@ -30,10 +30,10 @@ You can overwrite config.
 
 ```js
 module.exports = {
-    ...require("@mvlchain/prettier-config"),
-    // overwrite
-    printWidth: 140,
-    tabWidth: 4
+  ...require('@mvlchain/prettier-config'),
+  // overwrite
+  printWidth: 140,
+  tabWidth: 4,
 };
 ```
 

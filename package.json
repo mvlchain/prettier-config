@@ -13,7 +13,9 @@
   "devDependencies": {
     "prettier": "^2.7.1"
   },
-  "keywords": ["prettier"],
+  "keywords": [
+    "prettier"
+  ],
   "author": "MVL",
   "license": "MIT",
   "bugs": {
