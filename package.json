@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@mvlchain/prettier-config",
   "version": "0.0.1",
   "description": "Common Prettier config used in MVL FE projects.",
   "main": "index.js",
