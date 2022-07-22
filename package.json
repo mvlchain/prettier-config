@@ -16,5 +16,8 @@
   "homepage": "https://github.com/mvlchain/prettier-config#readme",
   "peerDependencies": {
     "prettier": "^2.0.0"
+  },
+  "publishConfig": {
+    "@mvlchain:registry": "https://npm.pkg.github.com"
   }
 }
