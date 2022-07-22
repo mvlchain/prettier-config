@@ -7,16 +7,19 @@
     "type": "git",
     "url": "git+https://github.com/mvlchain/prettier-config.git"
   },
-  "keywords": [],
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "keywords": ["prettier"],
   "author": "MVL",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mvlchain/prettier-config/issues"
   },
   "homepage": "https://github.com/mvlchain/prettier-config#readme",
-  "peerDependencies": {
-    "prettier": "^2.0.0"
-  },
   "publishConfig": {
     "@mvlchain:registry": "https://npm.pkg.github.com"
   }
