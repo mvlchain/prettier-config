@@ -8,7 +8,7 @@
     "url": "git+https://github.com/mvlchain/prettier-config.git"
   },
   "peerDependencies": {
-    "prettier": "^2.0.0"
+    "prettier": ">=2.0.0"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
