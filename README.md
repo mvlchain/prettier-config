@@ -1,6 +1,6 @@
 # @mvlchain/prettier-config
 
-Common Prettier config used in MVL FE projects.
+Common Prettier config used in MVL JavaScript projects.
 
 - [Install](#install)
 - [Usage](#usage)
